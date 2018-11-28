@@ -22,4 +22,6 @@ class Client
         $this->userId = $userId;
         $this->secret = $secret;
     }
+
+
 }
